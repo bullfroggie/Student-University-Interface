@@ -1,0 +1,103 @@
+[
+    {
+        "firstName": "Nikola",
+        "lastName": "Lausev",
+        "password": "password123",
+        "phoneNumber": "0650000000",
+        "deleted": false,
+        "userType": "STUDENT",
+        "email": "nikola.lausev.18@singidunum.com",
+        "recordBook": {
+            "firstName": "Nikola",
+            "lastName": "Lausev",
+            "exams": [],
+            "major": "SOFTWARE_AND_INFORMATION_ENGINEERING",
+            "enrollmentYear": "2018",
+            "university": "Singidunum University",
+            "id": "270243",
+            "yearOfStudy": "FRESHMAN",
+            "faculty": "FACULTY_OF_TECHNICAL_SCIENCES"
+        },
+        "username": "lausevnikola"
+    },
+    {
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "password": "qwerty123",
+        "phoneNumber": "0640000000",
+        "deleted": false,
+        "userType": "STUDENT",
+        "email": "jane.doe@gmail.com",
+        "recordBook": {
+            "firstName": "Jane",
+            "lastName": "Doe",
+            "exams": [],
+            "major": "BUSINESS_ECONOMICS",
+            "enrollmentYear": "2019",
+            "university": "Singidunum University",
+            "id": "270001",
+            "yearOfStudy": "SOPHMORE",
+            "faculty": "FACULTY_OF_BUSINESS"
+        },
+        "username": "janeDoe"
+    },
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "password": "ytrewq321",
+        "phoneNumber": "0620000000",
+        "deleted": false,
+        "userType": "STUDENT",
+        "email": "john.doe@yahoo.com",
+        "recordBook": {
+            "firstName": "John",
+            "lastName": "Doe",
+            "exams": [],
+            "major": "ELECTRICAL_ENGINEERING_AND_COMPUTING",
+            "enrollmentYear": "2077",
+            "university": "Singidunum University",
+            "id": "270002",
+            "yearOfStudy": "SENIOR",
+            "faculty": "FACULTY_OF_INFORMATICS_AND_COMPUTING"
+        },
+        "username": "johnDoe"
+    },
+    {
+        "firstName": "Root",
+        "lastName": "Root",
+        "password": "root",
+        "deleted": false,
+        "userType": "ADMIN",
+        "username": "root"
+    },
+    {
+        "firstName": "Steve",
+        "lastName": "Wozniak",
+        "password": "elppa321",
+        "deleted": false,
+        "userType": "PROFESSOR",
+        "academicTitle": "RESEARCH_PROFESSOR",
+        "email": "steve.wozniak@apple.com",
+        "username": "steveW"
+    },
+    {
+        "firstName": "Donald",
+        "lastName": "Knuth",
+        "password": "donaldEK",
+        "deleted": false,
+        "userType": "PROFESSOR",
+        "academicTitle": "PROFESSOR",
+        "email": "donald.knuth@stanford.edu",
+        "username": "donaldK"
+    },
+    {
+        "firstName": "Nick",
+        "lastName": "Parlante",
+        "password": "parlante101",
+        "deleted": false,
+        "userType": "PROFESSOR",
+        "academicTitle": "PROFESSOR",
+        "email": "nick.parlante@stanford.edu",
+        "username": "nickP"
+    }
+]

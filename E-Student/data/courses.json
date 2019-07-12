@@ -1,0 +1,32 @@
+[
+    {
+        "syllabus": "Principles and implementation issues in object-oriented programming languages, including: memory and run-time models; encapsulation, inheritance and polymorphism; generics. Collections and other frameworks and hierarchies. Effects of binding time considerations on language design and implementation. Introduction to design patterns, such as adapter, singleton, and model-view-controller. Language used - Java EE",
+        "courseYear": "2018",
+        "major": "SOFTWARE_AND_INFORMATION_ENGINEERING",
+        "name": "Object Oriented Programming",
+        "id": "AB18SOOP",
+        "yearOfStudy": "FRESHMAN",
+        "classCredits": 4,
+        "practicalClassCredits": 4
+    },
+    {
+        "syllabus": "This course introduces the student to the functional programming paradigm. Functional programming techniques are illustrated in the Haskell language. A significant portion of the learning occurs through the programming examples that are discussed in class. Programming projects will be required.",
+        "courseYear": "2019",
+        "major": "SOFTWARE_AND_INFORMATION_ENGINEERING",
+        "name": "Functional Programming",
+        "id": "BA19SFP",
+        "yearOfStudy": "SOPHMORE",
+        "classCredits": 3,
+        "practicalClassCredits": 5
+    },
+    {
+        "syllabus": "This course covers widely applicable mathematical tools for computer science, including topics from logic, set theory, combinatorics, number theory, probability theory, and graph theory. It includes practice in reasoning formally and proving theorems.",
+        "courseYear": "2077",
+        "major": "ELECTRICAL_ENGINEERING_AND_COMPUTING",
+        "name": "Discrete Mathematics",
+        "id": "SH77DM",
+        "yearOfStudy": "JUNIOR",
+        "classCredits": 4,
+        "practicalClassCredits": 2
+    }
+]

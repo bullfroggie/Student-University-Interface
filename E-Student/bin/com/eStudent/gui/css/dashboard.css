@@ -1,0 +1,116 @@
+.root {
+	-fx-background-size: 850 550;
+	-fx-background-color: white;
+	-fx-background-image: url("../icons/welcome.png");
+	-fx-background-repeat: no-repeat;
+	-fx-background-size: 630;
+	-fx-background-position: right;
+}
+
+#title {
+	-fx-text-fill: #3949ab;
+	-fx-font-family: "Arial";
+	-fx-font-size: 17;
+	-fx-font-weight: bold;
+}
+
+#leftMenu {
+	-fx-background-color: #3949ab;
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.8), 10, 0, 0, 0);
+	-fx-background-repeat: no-repeat;
+	-fx-background-size: 150;
+	-fx-background-position: top, center;
+}
+
+#rightSide {
+	-fx-font-family: "Arial";
+	-fx-font-size: 15;
+}
+
+.button {
+	-fx-background-color: #3949ab;
+	-fx-text-fill: white;
+	-fx-font-size: 15px;
+	-fx-font-family: "Sans Serif";
+}
+
+.button:hover {
+	-fx-background-color: #1a237e;
+	-fx-cursor: hand;
+}
+
+.labels {
+	-fx-text-fill: #3949ab;
+}
+
+.radio:selected {
+	-fx-text-fill: red;
+}
+
+.info {
+	-fx-font-size: 12;
+	-fx-text-fill: gray;
+}
+
+.text-field:focused {
+	-fx-faint-focus-color: transparent;
+	-fx-focus-color: #3949ab;
+}
+
+#comboBox {
+	-fx-font-size: 13;
+	-fx-background-color: white;
+	-fx-border-color: gray;
+	-fx-border-radius: 8;
+}
+
+.table-view {
+	-fx-background-color: transparent;
+}
+
+.table-view:focused {
+	-fx-background-color: transparent;
+}
+
+.table-view .column-header-background {
+	-fx-background-color: white;
+}
+
+.table-view .column-header-background .label {
+	-fx-background-color: transparent;
+	-fx-text-fill: black;
+}
+
+.table-view .column-header {
+	-fx-background-color: transparent;
+}
+
+.table-column {
+	-fx-alignment: CENTER;
+}
+
+.table-row-cell {
+	-fx-alignment: center;
+}
+
+.table-row-cell:selected {
+	-fx-background-color: #3949ab;
+	-fx-text-fill: white;
+}
+
+#tutorial {
+	-fx-font-size: 15;
+}
+
+#gpa {
+	-fx-font-size: 15;
+	-fx-font-weight: bold;
+}
+
+.studentInfo {
+	-fx-font-size: 13;
+}
+
+.studentInfo:hover {
+	-fx-text-fill: #3949ab;
+}

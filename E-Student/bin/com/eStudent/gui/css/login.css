@@ -1,0 +1,50 @@
+.root {
+	-fx-background-color: white;
+	-fx-background-size: 850 550;
+	-fx-background-size: 850 550;
+	-fx-font-size: 16px;
+}
+
+#leftPane {
+	-fx-background-image: url("../icons/logo.png");
+	-fx-pref-width: 475;
+	-fx-pref-height: 550;
+	-fx-background-color: linear-gradient(to right, #A85CCC, #140078);
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.8), 10, 0, 0, 0);
+	-fx-background-repeat: no-repeat;
+	-fx-background-size: 200;
+	-fx-background-position: center;
+}
+
+#login-button {
+	-fx-background-color: #140078;
+	-fx-background-insets: 0 0 -1 0, 0, 1;
+	-fx-background-radius: 5, 5, 4;
+	-fx-padding: 7 20 7 20;
+	-fx-text-fill: white;
+	-fx-font-size: 15px;
+}
+
+#login-button:hover {
+	-fx-background-color: #c5cae9;
+	-fx-text-fill: #1a237e;
+	-fx-cursor: hand;
+}
+
+#usrnm-label, #pw-label {
+	-fx-text-fill: #757575;
+	-fx-font-smoothing-type: gray;
+	-fx-font-size: 15;
+}
+
+#username:focused, #password:focused {
+	-fx-focus-color: purple;
+}
+
+#error ImageView {
+	-fx-text-fill: red;
+	-fx-font-weight: bold;
+	-fx-font-size: 15;
+	-fx-pref-width: 35;
+	-fx-pref-height: 50;
+}
