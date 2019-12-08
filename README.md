@@ -17,10 +17,6 @@ If you don't receive any of these errors, great! Then you should only navigate t
 # Built With
 JDK 11, JavaFX 11, CSS, and JSON
 
-# Visual preview of the Login Screen
-![Login screen](E-Student/Images/loginScreen.PNG)
-
-# Visual preview of what admin is presented with when logged in
 ![Admin greetings & dashboard menu](E-Student/Images/adminMenu.png)
 
 # Author
